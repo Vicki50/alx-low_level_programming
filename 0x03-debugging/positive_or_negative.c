@@ -2,8 +2,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * main - print a random num
+ * positive_or_negative - print a random num
  *
+ *@i: entry point
  */
 void positive_or_negative(int i)
 {
